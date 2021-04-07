@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Siafu" />
+        <module name="Simulation-SafePet" />
+        <module name="DataTypes" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DataTypes" target="1.5" />
+      <module name="MavenParent" target="1.5" />
+      <module name="Siafu" target="1.5" />
+      <module name="SiafuAggregator" target="1.5" />
+      <module name="Simulation-SafePet" target="1.5" />
+      <module name="Simulations" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

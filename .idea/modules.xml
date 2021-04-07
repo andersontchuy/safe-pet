@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Datatypes/DataTypes.iml" filepath="$PROJECT_DIR$/Datatypes/DataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MavenParent/MavenParent.iml" filepath="$PROJECT_DIR$/MavenParent/MavenParent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Siafu/Siafu.iml" filepath="$PROJECT_DIR$/Siafu/Siafu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SiafuAggregator.iml" filepath="$PROJECT_DIR$/SiafuAggregator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Simulations/Simulation-SafePet/Simulation-SafePet.iml" filepath="$PROJECT_DIR$/Simulations/Simulation-SafePet/Simulation-SafePet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Simulations/Simulations.iml" filepath="$PROJECT_DIR$/Simulations/Simulations.iml" />
+    </modules>
+  </component>
+</project>
