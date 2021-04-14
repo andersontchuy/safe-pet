@@ -1,4 +1,4 @@
-# Siafu, the Context Simulator
+# Siafu, o Simulador de contexto 
 
 ![Siafu Screehshot](http://siafusimulator.org/images/screenshot-glasgow-small.jpg)
 
